@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-haml-mafqud-scenarios"
+version = "1.0.0"
+edition = "2021"
+description = "Contingent Heir Reserve Calculator (Unborn Haml & Missing Mafqud)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_haml_mafqud_scenarios"
+path = "main.rs"
